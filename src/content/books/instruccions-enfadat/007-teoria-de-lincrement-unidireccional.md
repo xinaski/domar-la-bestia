@@ -1,0 +1,30 @@
+---
+title: "Teoria de l’increment unidireccional"
+order: 7
+date: "21-02-2026"
+type: "relat"
+---
+
+Un cafè val 1,30. Això és un fet. Una xifra concreta, estable, gairebé tranquil·litzadora. Bé, hi ha molts preus de cafè, però aquell dia el preu era aquell. Ni car ni barat. Un preu acceptable. Una quantitat que el cervell pot processar sense activar cap alarma interna, sense aquella sospita lleu que t’estan prenent el pèl. 1,30 és una xifra domèstica, manejable, d’aquelles que permeten continuar el dia amb la sensació que el món encara funciona amb una certa proporcionalitat. Ell pagava 1,30 i a canvi rebia un cafè que li permetia continuar existint amb una mínima dignitat funcional. No hi havia tensió en aquell acord. Era un intercanvi net. O ho semblava.
+
+Aquell matí, però, va cometre l’error de confiar en la proporcionalitat de les coses. Va demanar el cafè una mica més llarg. Una mica. No un experiment hidràulic. No un litre d’aigua del pantà de Sau. Una miqueta més llarg. Aquella quantitat gairebé simbòlica d’aigua que no altera l’equilibri dels oceans ni l’economia mundial. I el preu va canviar. 1,35. Cinc cèntims més. Ho va pagar sense discutir, perquè no era un revolucionari de barra de bar ni estava disposat a iniciar una insurrecció per una moneda de coure. Però alguna cosa dins seu va fer un clic discret, gairebé imperceptible, com quan una peça encaixa malament però ningú no diu res. Cinc cèntims per aigua. I no van ser números econòmics els que li van començar a girar pel cap, sinó números morals.
+
+Perquè si demanava un tallat i li cobraven deu cèntims més, ho entenia. La llet té un cost. Hi ha vaques implicades, hi ha un ramader que s’aixeca quan encara és fosc i, amb aquella calma antiga de qui sap que les vaques no entenen de presses, muny la llet perquè a les vuit del matí algú pugui fer escuma en una tassa blanca. Hi ha transport, hi ha fred industrial, hi ha una cadena humana que justifica l’increment. Si demanava un carajillo i el preu pujava a 1,80 o dos euros, també ho entenia. L’alcohol no neix a la paret. Hi ha impostos, hi ha distribuïdors, hi ha una alegria química que no és gratuïta. Si el volia amb gel i costava 1,50, encara podia imaginar el congelador treballant de fons, acumulant fred per fabricar aquell cub transparent que li refredaria el cafè durant uns minuts. Però l’aigua. L’aigua surt literalment de la paret. No hi ha epopeia en l’aigua. No hi ha cap camperol suant sota el sol per produir-la a mà. És obrir aixeta i confiar en l’enginyeria civil. I tanmateix, cinc cèntims.
+
+L’argument va arribar amb aquella serenitat burocràtica que ja no necessita convèncer ningú: “Tot això té un cost.” El rentavaixelles té un cost. El treballador té un cost. L’electricitat té un cost. Ell assentia perquè no era un ingenu. Sabia perfectament que tot té un cost. El que no acabava d’encaixar-li era per què el cost només funcionava en una direcció. Perquè quan va demanar el cafè per emportar, sense tassa, sense plat, sense rentavaixelles, sense cadira ocupada durant quaranta minuts, el preu va ser exactament el mateix. Quan no prenia sucre, el preu era el mateix. Quan reduïa el servei al mínim indispensable, el preu era el mateix. I aquí és on la matemàtica començava a semblar-li selectiva. Si el rentavaixelles justificava cinc cèntims més, la seva absència hauria de justificar cinc cèntims menys. Si tot suma, alguna cosa hauria de restar. Però el món havia perfeccionat l’art d’afegir i havia oblidat completament l’art de descomptar.
+
+I el cafè no era una anècdota aïllada. A les benzineres, abans hi havia un home que et posava la benzina. Un home real, amb uniforme, amb olor de gasoil enganxada a la pell. Tu baixaves la finestreta, deies “ple”, i ell feia la resta. Un dia aquell home va desaparèixer. Sense protestes, sense dol, sense explicacions. Simplement, tothom va començar a posar-se la benzina a si mateix. I el preu no va baixar. No hi va haver cap ajust simbòlic per haver assumit una tasca que abans feia algú altre. El cost es va mantenir intacte mentre la feina canviava de mans. Després van arribar les caixes d’autoservei. Escaneges tu. Peses tu. Cobres tu. Si la màquina detecta un error, et parla amb un to passiu-agressiu programat per recordar-te que encara no ets prou eficient. Però el preu? El preu és el mateix. El sistema ha descobert que pot externalitzar el treball sense compartir el benefici, i la gent —ell inclòs— ho ha acceptat amb una naturalitat gairebé admirable.
+
+El que el molestava no era pagar. Pagava. Sempre pagava. El que el descol·locava era la simetria trencada, aquesta manera tan precisa que té el món de detectar qualsevol variació que el beneficiï i traduir-la en un increment immediat, mentre ignora sistemàticament qualsevol variació que el beneficiï a ell. Menys servei no implica menys preu. Més esforç del client no implica cap compensació. La suma és automàtica. La resta, invisible. I aquesta invisibilitat no és casual. És estructural.
+
+Potser tot plegat semblava exagerat per una tassa de cafè. Potser projectava en cinc cèntims una incomoditat més profunda. Però mai, absolutament mai, havia presenciat el moviment contrari. Mai ningú li havia dit: “Avui et cobrem menys perquè ens ho has posat fàcil.” Mai havia vist un sistema que reconegués una reducció amb la mateixa diligència amb què reconeix un excés. I aquella absència de simetria no era un descuit, era una norma.
+
+No era el cafè. No era l’aigua. No eren els cinc cèntims.
+
+Era la constatació que el món ha après a convertir les persones en part del procés sense convertir-les mai en part del benefici. Que el client pot esdevenir treballador ocasional, operador temporal, escanejador voluntari, però mai soci. I que cada vegada que accepta aquesta asimetria per cinc cèntims, per comoditat, per inèrcia, està firmant en petit la renúncia a discutir el mecanisme gran.
+
+I això, pensava ell mentre el cafè ja era tebi, no valia cinc cèntims.
+
+Valia molt més.
+
+I, curiosament, ningú no estava disposat a descomptar-ho.
