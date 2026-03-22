@@ -3,7 +3,10 @@
   "title": "La dignitat de marxar tard",
   "subtitle": "",
   "order": 2,
-  "description": "Relació, responsabilitat emocional i el cost de quedar-se.",
+  "description": [
+    "Aquest llibre parla d’arribar tard a tot. A les relacions, a les decisions, a un mateix. De quedar-se una mica més del compte i de confondre responsabilitat amb resistència.",
+    "Són textos sobre el moment en què ja saps que hauries de marxar, però encara hi ets. Per costum, per por o per una esperança que ja només aguanta per inèrcia."
+  ],
   "cover": "/covers/marxar-tard.png",
   "pdf": "/pdf/dignitat-marxar-tard.pdf"
 }

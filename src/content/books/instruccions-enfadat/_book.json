@@ -3,7 +3,10 @@
   "title": "Instruccions per viure lleugerament enfadat",
   "subtitle": "",
   "order": 4,
-  "description": "Relats curts absurds amb fons filosòfic i mala llet educada.",
+  "description": [
+    "Aquest llibre recull petites formes de ràbia quotidiana. Observacions, gestos i pensaments que no acaben d’explotar però tampoc desapareixen.",
+    "Són textos sobre viure amb una incomoditat constant, lleu però persistent. Una manera d’estar al món amb ironia, cansament i una mala llet ben administrada."
+  ],
   "cover": "/covers/viure-enfadat.png",
   "pdf": "/pdf/instruccions-enfadat.pdf"
 }

@@ -1,32 +1,71 @@
-
-<template>    
-  <div class="mx-auto py-16 px-4 sm:px-8 bg-white border-x max-w-[800px]">
+<template>
+  <div class="mx-auto max-w-[800px] border-x bg-white px-4 pt-8 pb-16 sm:px-8">
     <section v-if="bookData">
-      <h1 class="text-4xl font-serif font-bold">
-        {{ bookData.title }}
-      </h1>
-      <div class="mt-8 space-y-3">
+      <!-- HEADER -->
+      <header class="mb-10">
+        <div class="flex flex-col gap-6 md:flex-row md:items-start md:gap-8">
+          <!-- IMAGE -->
+          <div
+            v-if="bookData.cover"
+            class="w-[180px] shrink-0 overflow-hidden bg-black/5 sm:w-[220px] md:w-[200px]"
+          >
+            <img
+              :src="bookData.cover"
+              :alt="bookData.title"
+              class="h-auto w-full object-cover"
+            />
+          </div>
+
+          <!-- TITLE + DESCRIPTION -->
+          <div class="flex-1">
+            <h1 class="font-serif text-2xl font-semibold leading-[0.95] tracking-[-0.02em] sm:text-3xl">
+              {{ bookData.title }}
+            </h1>
+
+            <div v-if="bookData.description" class="mt-6 max-w-2xl">
+              <p
+                v-for="(p, i) in bookData.description"
+                :key="i"
+                class="text-sm leading-[1.6] text-neutral-700 mb-4"
+              >
+                {{ p }}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- DIVIDER -->
+        <div class="mt-8 border-t border-black/10"></div>
+      </header>
+
+      <!-- CHAPTERS -->
+      <div class="space-y-3">
         <div v-for="ch in chapters" :key="ch.slug">
           <div v-if="ch.type === 'section'" class="pt-6">
-              <p class="text-xs text-neutral-500 tracking-wide uppercase">Capítol</p>
-              <RouterLink
+            <p class="text-xs uppercase tracking-wide text-neutral-500">
+              Capítol
+            </p>
+
+            <RouterLink
               :to="`/llibres/${bookData.slug}/${firstChildSlug(ch.slug)}`"
-              class="mt-2 block text-xl font-medium font-serif font-semibold hover:underline hover:underline-offset-4"
-              >
+              class="mt-2 block font-serif text-xl font-semibold hover:underline hover:underline-offset-4"
+            >
               {{ ch.title }}
-              </RouterLink>
+            </RouterLink>
           </div>
+
           <div v-else class="pl-6">
-              <RouterLink
+            <RouterLink
               :to="`/llibres/${bookData.slug}/${ch.slug}`"
-              class="text-xl font-medium font-serif hover:underline hover:underline-offset-4"
-              >
+              class="font-serif text-xl hover:underline hover:underline-offset-4"
+            >
               - {{ ch.title }}
-              </RouterLink>
+            </RouterLink>
           </div>
         </div>
       </div>
     </section>
+
     <section v-else>
       <p class="text-sm">No trobo aquest llibre.</p>
     </section>

@@ -4,14 +4,24 @@
     <header v-if="showHeader" class="sticky top-0 z-50 bg-white shadow-sm backdrop-blur-sm">
       <div class="w-full p-6">
         <RouterLink
-        to="/"
-        class="text-2xl font-bold font-serif tracking-[0.18em] text-black"
+          to="/"
+          class="flex items-center gap-4 text-black"
         >
-        Domar la bèstia
-        <span class="text-sm pt-16 italic font-serif">- Marc Zamora</span>
+          <!-- LOGO -->
+          <img
+            src="/logo-domar.png"
+            alt="Domar la bèstia"
+            class="h-[28px] w-auto object-contain"
+          />
+          <!-- TEXT -->
+          <div class="flex items-baseline gap-3">
+            <span class="text-2xl font-serif font-bold tracking-[0.18em]">
+              Domar la bèstia
+            </span>
+          </div>
         </RouterLink>
       </div>
-      <div class="border-t border-white/10" />
+      <div class="border-t border-black/5" />
     </header>
 
     <!-- MAIN -->

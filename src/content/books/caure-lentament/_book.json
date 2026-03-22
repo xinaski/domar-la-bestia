@@ -3,7 +3,10 @@
   "title": "L’art de caure lentament",
   "subtitle": "2009–2026",
   "order": 1,
-  "description": "Arxiu intens, honest i sense moralina.",
+  "description": [
+    "Aquest llibre parla de caure sense fer soroll. De fer-ho a poc a poc, amb una mena de consciència estranya que et permet veure com tot es desmunta mentre encara hi ets a dins.",
+    "Són textos sobre el desgast, la repetició i la inèrcia. Sobre la sensació d’anar perdent coses sense saber exactament quan ha començat tot."
+  ],
   "cover": "/covers/caure-lentament.png",
   "pdf": "/pdf/caure-lentament.pdf"
 }

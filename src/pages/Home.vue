@@ -34,45 +34,39 @@
 
         <div class="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-16">
           <RouterLink
-  v-for="b in books"
-  :key="b.slug"
-  :to="`/llibres/${b.slug}`"
-  class="group block border-l-2 border-black px-6 md:px-7 transition-all duration-200 hover:-translate-y-[2px] hover:border-black/30"
->
-  <div class="flex min-h-[220px] gap-5 md:gap-6 items-start">
-    
-    <!-- COVER -->
-    <div class="w-[110px] h-[110px] md:w-[132px] md:h-[132px] shrink-0 overflow-hidden bg-black/5">
-      <img
-        v-if="b.cover"
-        :src="b.cover"
-        :alt="b.title"
-        class="w-full h-full object-cover transition duration-300 group-hover:scale-[1.03]"
-      />
-    </div>
-
-    <!-- TEXT -->
-    <div class="flex min-h-[180px] flex-1 flex-col justify-between">
-      <div>
-        <h3 class="font-serif text-[clamp(24px,2vw,30px)] leading-[0.95] tracking-[-0.02em]">
-          {{ b.title }}
-        </h3>
-
-        <p class="mt-4 text-[16px] leading-[1.45] text-black/70">
-          {{ bookDescriptions[b.slug] || "Descripció pendent." }}
-        </p>
-      </div>
-
-      <div class="mt-8">
-        <span
-          class="font-serif text-[18px] underline decoration-transparent underline-offset-[8px] transition-[text-decoration-color] duration-200 group-hover:decoration-black"
-        >
-          Entrar al llibre
-        </span>
-      </div>
-    </div>
-  </div>
-</RouterLink>
+            v-for="b in books"
+            :key="b.slug"
+            :to="`/llibres/${b.slug}`"
+            class="group block transition-all duration-200 hover:-translate-y-[2px]">
+            <div class="flex flex-col md:flex-row gap-6 md:gap-6 items-start">
+              <!-- COVER -->
+              <div class="w-[160px] h-[140px] md:w-[150px] md:h-[150px] shrink-0 overflow-hidden bg-black/5">
+                <img
+                  v-if="b.cover"
+                  :src="b.cover"
+                  :alt="b.title"
+                  class="w-full h-full object-cover transition duration-300 group-hover:scale-[1.03]"
+                />
+              </div>
+              <!-- TEXT -->
+              <div class="flex flex-1 flex-col justify-between">
+                <div>
+                  <h3 class="font-serif text-[clamp(26px,2vw,30px)] leading-[0.95] tracking-[-0.02em]">
+                    {{ b.title }}
+                  </h3>
+                  <p class="mt-4 max-w-xl text-[16px] leading-[1.5] text-black/70">
+                    {{ bookDescriptions[b.slug] || "Descripció pendent." }}
+                  </p>
+                </div>
+                <div class="mt-6 md:mt-8">
+                  <span
+                    class="font-serif text-[18px] underline decoration-transparent underline-offset-[8px] transition-[text-decoration-color] duration-200 group-hover:decoration-black">
+                    Entrar al llibre
+                  </span>
+                </div>
+              </div>
+            </div>
+          </RouterLink>
 
         </div>
       </div>

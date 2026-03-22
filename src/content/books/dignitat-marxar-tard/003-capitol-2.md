@@ -1,0 +1,32 @@
+---
+title: "Capítol 2 — No vull equivocar-me"
+order: 3
+date: "21-02-2026"
+type: "relat"
+---
+
+Recordo un diumenge a la Conreria. Aquell dia em vaig despertar molt il·lusionat. Els diumenges eren dies especials perquè a vegades el meu pare i la meva mare ens portaven d’excursió a mi i al meu germà, i aquell no havia de ser diferent: tocava anar a la Conreria, a la muntanya. Portàvem tota la setmana parlant-ne i jo, dins del meu cap, ja muntava històries bogíssimes, com si allò no fos una excursió sinó alguna cosa molt més important. Jo no anava a caminar per la muntanya, jo anava a una expedició.
+
+Era aquella època en què estava obsessionat amb Indiana Jones. Jo volia un fuet, un fuet de veritat, volia anar amb camisa oberta, amb pols, amb cara de no tenir por de res, com si en qualsevol moment hagués de sortir corrents d’alguna cosa que explotava darrere meu. Evidentment, el meu pare em va dir que no, que era massa petit per tenir un fuet. I en lloc d’un fuet, em va fer un tira-pells. I jo vaig flipar igual, potser encara més, perquè aquell tira-pells no era una joguina qualsevol: me l’havia fet ell, i allò ja li donava un punt especial. Durant dies vaig estar practicant a casa, amb quatre Playmobils col·locats estratègicament en una balda de l’habitació, com si fossin objectius militars, afinant la punteria sense saber gaire per a què però amb la sensació que en algun moment allò serviria per alguna cosa.
+
+Aquell diumenge em van posar el xandall, i això era important. Quan a mi em posaven el xandall volia dir una cosa molt clara: hi havia aventura. No sabies exactament quina, però alguna cosa passaria. El xandall era com una confirmació silenciosa que aquell dia no era un dia normal. Jo hauria preferit anar vestit com Indiana Jones, evidentment, però el xandall també servia. Amb el tira-pells a la mà, vaig sortir de casa com si anés a descobrir alguna cosa.
+
+El cotxe del meu pare era un Ford Escort antic, de color negre. Recordo la pujada plena de revolts fins a la Conreria i aquella sensació tan particular que tens quan saps que vas cap a algun lloc especial, com si aquell lloc amagés alguna cosa encara que en realitat no hi hagués res. Aparcàvem prop del santuari i després caminàvem pel bosc —o el que jo entenia com un bosc—, aquelles pistes amples de terra amb algun corriol que s’endinsava entre els arbres i que, si t’ho proposaves prou, podia portar a qualsevol lloc. Jo anava davant, sempre davant. No caminava, anava obrint camí, amb el tira-pells a la mà, mirant entre els arbres, buscant alguna cosa que no sabia exactament què era però que estava convençut que podia aparèixer en qualsevol moment: un cau, un forat, unes runes, alguna pista, alguna cosa que només podia trobar jo. Els meus pares i el meu germà venien darrere, tranquils, caminant. Jo no. Jo anava una mica més ràpid, una mica més endins, una mica més atent, com si en qualsevol moment hagués de passar alguna cosa important i jo hagués de ser el primer a veure-la.
+
+A la muntanya vam esmorzar. Jo i el meu germà menjàvem entrepà asseguts en algun marge o en una pedra, mentre la meva mare el portava a estones en braços perquè era molt petit. Feia sol, un sol suau, d’aquells que no molesten, i l’aire feia olor de terra i de fulles, tot i que en aquell moment jo no ho hauria sabut explicar així. Per mi només feia olor de muntanya. Jo anava amunt i avall amb el tira-pells, disparant pedres a fulles, a branques, a qualsevol cosa que em semblés una bona diana. Recordo fins i tot haver disparat a una aranya. Ara em faria pena, però aleshores no hi pensava gaire. Tot encaixava: el tira-pells, el xandall, el sol, el camí, la sensació que aquell dia podia durar molt. Tot era bastant perfecte.
+
+Quan tornàvem cap al cotxe vaig anar a beure aigua a la font que hi ha al costat del santuari. Recordo la font, però sobretot recordo la sensació de tenir set, aquella necessitat immediata que et fa oblidar tot el que tens al voltant. Va ser allà quan van aparèixer dos nens. Eren més grans que jo, no gaire, però prou perquè jo ho notés. Un d’ells era gros, amb aquell cos compacte que sembla que la pell li vagi una mica justa, amb una cara ampla i aixafada, una mica com un bulldog francès. L’altre era més escanyolit, aparentment poca cosa, però amb aquella energia nerviosa que ja intueixes que no portarà res de bo. Es van posar darrere meu mentre jo bevia i van començar a increpar-me, dient-me que em mogués, que volien beure ells, que què feia allà, que els estava molestant. Coses de nens petits, segurament, però a aquella edat tot sembla més gran del que és.
+
+Jo els vaig dir que estava bevent. Van començar a riure’s una mica de mi, que si era petit, que si era baixet, potser també em van dir alguna cosa del cos, no ho recordo del tot bé. En algun moment em van empènyer una mica. No va ser una gran baralla, no va passar res espectacular, però per mi va ser el primer conflicte seriós amb nens que no coneixia, gent que no era de l’escola, que no era del meu món. Jo només volia acabar de beure aigua i marxar.
+
+Quan vaig tornar cap al cotxe anava espantat. No plorava, però segurament la cara ja ho deia tot. Li vaig explicar al meu pare el que havia passat i ell em va mirar estranyat. —I tu què has fet? Jo li vaig dir que res. —Res? El meu pare es va enfadar. Em va dir que si algú es ficava amb mi m’havia de defensar, que si m’empentaven jo també havia d’empènyer, que si es reien de mi jo els havia de tornar el cop. —I no els has pegat? Jo no entenia res. Perquè sempre m’havien dit que barallar-se estava malament, que les baralles no solucionaven res, i ara em renyaven per no haver-me barallat.
+
+Recordo que vaig dir una cosa una mica absurda, alguna merda per sortir del pas. —És que jo soc pacifista. Ni tan sols sabia ben bé què volia dir pacifista. Sabia que tenia alguna cosa a veure amb la pau i amb no pegar.
+
+Recordo tornar al cotxe i el silenci. Dos crios m’havien empès a la font i el meu pare m’estava renyant per no haver-los pegat. En qüestió de cinc minuts havia aconseguit decebre tothom.
+
+Ells. I jo.
+
+Aquell dia vaig començar a sospitar una cosa pitjor: que el problema no era si havia fet bé o malament. El problema era que ningú sabia exactament què collons volia dir fer-ho bé.
+
+I jo, molt menys.
