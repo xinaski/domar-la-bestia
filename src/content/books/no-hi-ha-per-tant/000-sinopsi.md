@@ -5,7 +5,7 @@ date: "21-02-2026"
 type: "relat"
 ---
 
-**Instruccions per viure lleugerament enfadat** no és un manual d’autoajuda.
+**No hi ha per tant** no és un manual d’autoajuda.
 És el contrari.
 
 No t’ensenyarà a ser millor persona ni més productiu ni més equilibrat. Com a molt, t’ensenyarà a mirar el despertador amb rancor, a muntar un nòrdic com si fos una batalla moral i a passejar un paquet gegant de paper del vàter com si fos una confessió pública.

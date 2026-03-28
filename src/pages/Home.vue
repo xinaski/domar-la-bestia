@@ -128,7 +128,7 @@ const bookDescriptions: Record<string, string> = {
   "dignitat-marxar-tard":
     "Textos sobre memòria, absència i la manera estranya que té la vida d’arribar sempre una mica tard.",
 
-  "instruccions-enfadat":
+  "no-hi-ha-per-tant":
     "Fragments, observacions i petites formes de ràbia quotidiana mirades amb ironia, cansament i mala llet ben administrada.",
 
   "cansament-de-ser":

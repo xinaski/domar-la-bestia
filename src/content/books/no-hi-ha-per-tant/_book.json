@@ -1,6 +1,6 @@
 {
-  "slug": "instruccions-enfadat",
-  "title": "Instruccions per viure lleugerament enfadat",
+  "slug": "no-hi-ha-per-tant",
+  "title": "No hi ha per tant",
   "subtitle": "",
   "order": 4,
   "description": [
@@ -8,5 +8,5 @@
     "Són textos sobre viure amb una incomoditat constant, lleu però persistent. Una manera d’estar al món amb ironia, cansament i una mala llet ben administrada."
   ],
   "cover": "/covers/viure-enfadat.png",
-  "pdf": "/pdf/instruccions-enfadat.pdf"
+  "pdf": "/pdf/no-hi-ha-per-tant.pdf"
 }

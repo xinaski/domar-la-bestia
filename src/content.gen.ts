@@ -548,8 +548,8 @@ export const books = [
     "nav": {}
   },
   {
-    "slug": "instruccions-enfadat",
-    "title": "Instruccions per viure lleugerament enfadat",
+    "slug": "no-hi-ha-per-tant",
+    "title": "No hi ha per tant",
     "subtitle": "",
     "order": 4,
     "description": [
@@ -557,7 +557,7 @@ export const books = [
       "Són textos sobre viure amb una incomoditat constant, lleu però persistent. Una manera d’estar al món amb ironia, cansament i una mala llet ben administrada."
     ],
     "cover": "/covers/viure-enfadat.png",
-    "pdf": "/pdf/instruccions-enfadat.pdf",
+    "pdf": "/pdf/no-hi-ha-per-tant.pdf",
     "chapters": [
       {
         "slug": "000-sinopsi",
@@ -565,7 +565,7 @@ export const books = [
         "order": 0,
         "date": "21-02-2026",
         "type": "relat",
-        "html": "<p><strong>Instruccions per viure lleugerament enfadat</strong> no és un manual d’autoajuda.<br>És el contrari.</p>\n<p>No t’ensenyarà a ser millor persona ni més productiu ni més equilibrat. Com a molt, t’ensenyarà a mirar el despertador amb rancor, a muntar un nòrdic com si fos una batalla moral i a passejar un paquet gegant de paper del vàter com si fos una confessió pública.</p>\n<p>Vivim envoltats d’instruccions: per estimar millor, per rendir més, per no equivocar-nos, per semblar sòlids. Però ningú no ens explica com gestionar les petites derrotes invisibles: el silenci quan entres a casa, el desig que arriba tard, la dignitat provisional, el cos que sempre acaba traint el discurs.</p>\n<p>Aquests relats converteixen l’anècdota quotidiana en dissecció existencial. Entre l’absurd i la lucidesa, el narrador observa el món —i a si mateix— des d’un lloc incòmode però honest. Aquí l’amor no és èpic; és timing. La masculinitat no és fortalesa; és negociació. I la perfecció sempre fa una mica de sospita.</p>\n<p>No és un llibre sobre grans tragèdies.<br>És un llibre sobre microdignitats.</p>\n<p>Sobre aguantar sense convertir-se en una caricatura.<br>Sobre entendre que, potser, viure no és guanyar.</p>\n<p>És negociar cada matí.</p>\n"
+        "html": "<p><strong>No hi ha per tant</strong> no és un manual d’autoajuda.<br>És el contrari.</p>\n<p>No t’ensenyarà a ser millor persona ni més productiu ni més equilibrat. Com a molt, t’ensenyarà a mirar el despertador amb rancor, a muntar un nòrdic com si fos una batalla moral i a passejar un paquet gegant de paper del vàter com si fos una confessió pública.</p>\n<p>Vivim envoltats d’instruccions: per estimar millor, per rendir més, per no equivocar-nos, per semblar sòlids. Però ningú no ens explica com gestionar les petites derrotes invisibles: el silenci quan entres a casa, el desig que arriba tard, la dignitat provisional, el cos que sempre acaba traint el discurs.</p>\n<p>Aquests relats converteixen l’anècdota quotidiana en dissecció existencial. Entre l’absurd i la lucidesa, el narrador observa el món —i a si mateix— des d’un lloc incòmode però honest. Aquí l’amor no és èpic; és timing. La masculinitat no és fortalesa; és negociació. I la perfecció sempre fa una mica de sospita.</p>\n<p>No és un llibre sobre grans tragèdies.<br>És un llibre sobre microdignitats.</p>\n<p>Sobre aguantar sense convertir-se en una caricatura.<br>Sobre entendre que, potser, viure no és guanyar.</p>\n<p>És negociar cada matí.</p>\n"
       },
       {
         "slug": "001-manual-per-guanyar-guerres-insignificants",
@@ -1496,9 +1496,9 @@ export const booksBySlug = {
     "chapters": [],
     "nav": {}
   },
-  "instruccions-enfadat": {
-    "slug": "instruccions-enfadat",
-    "title": "Instruccions per viure lleugerament enfadat",
+  "no-hi-ha-per-tant": {
+    "slug": "no-hi-ha-per-tant",
+    "title": "No hi ha per tant",
     "subtitle": "",
     "order": 4,
     "description": [
@@ -1506,7 +1506,7 @@ export const booksBySlug = {
       "Són textos sobre viure amb una incomoditat constant, lleu però persistent. Una manera d’estar al món amb ironia, cansament i una mala llet ben administrada."
     ],
     "cover": "/covers/viure-enfadat.png",
-    "pdf": "/pdf/instruccions-enfadat.pdf",
+    "pdf": "/pdf/no-hi-ha-per-tant.pdf",
     "chapters": [
       {
         "slug": "000-sinopsi",
@@ -1514,7 +1514,7 @@ export const booksBySlug = {
         "order": 0,
         "date": "21-02-2026",
         "type": "relat",
-        "html": "<p><strong>Instruccions per viure lleugerament enfadat</strong> no és un manual d’autoajuda.<br>És el contrari.</p>\n<p>No t’ensenyarà a ser millor persona ni més productiu ni més equilibrat. Com a molt, t’ensenyarà a mirar el despertador amb rancor, a muntar un nòrdic com si fos una batalla moral i a passejar un paquet gegant de paper del vàter com si fos una confessió pública.</p>\n<p>Vivim envoltats d’instruccions: per estimar millor, per rendir més, per no equivocar-nos, per semblar sòlids. Però ningú no ens explica com gestionar les petites derrotes invisibles: el silenci quan entres a casa, el desig que arriba tard, la dignitat provisional, el cos que sempre acaba traint el discurs.</p>\n<p>Aquests relats converteixen l’anècdota quotidiana en dissecció existencial. Entre l’absurd i la lucidesa, el narrador observa el món —i a si mateix— des d’un lloc incòmode però honest. Aquí l’amor no és èpic; és timing. La masculinitat no és fortalesa; és negociació. I la perfecció sempre fa una mica de sospita.</p>\n<p>No és un llibre sobre grans tragèdies.<br>És un llibre sobre microdignitats.</p>\n<p>Sobre aguantar sense convertir-se en una caricatura.<br>Sobre entendre que, potser, viure no és guanyar.</p>\n<p>És negociar cada matí.</p>\n"
+        "html": "<p><strong>No hi ha per tant</strong> no és un manual d’autoajuda.<br>És el contrari.</p>\n<p>No t’ensenyarà a ser millor persona ni més productiu ni més equilibrat. Com a molt, t’ensenyarà a mirar el despertador amb rancor, a muntar un nòrdic com si fos una batalla moral i a passejar un paquet gegant de paper del vàter com si fos una confessió pública.</p>\n<p>Vivim envoltats d’instruccions: per estimar millor, per rendir més, per no equivocar-nos, per semblar sòlids. Però ningú no ens explica com gestionar les petites derrotes invisibles: el silenci quan entres a casa, el desig que arriba tard, la dignitat provisional, el cos que sempre acaba traint el discurs.</p>\n<p>Aquests relats converteixen l’anècdota quotidiana en dissecció existencial. Entre l’absurd i la lucidesa, el narrador observa el món —i a si mateix— des d’un lloc incòmode però honest. Aquí l’amor no és èpic; és timing. La masculinitat no és fortalesa; és negociació. I la perfecció sempre fa una mica de sospita.</p>\n<p>No és un llibre sobre grans tragèdies.<br>És un llibre sobre microdignitats.</p>\n<p>Sobre aguantar sense convertir-se en una caricatura.<br>Sobre entendre que, potser, viure no és guanyar.</p>\n<p>És negociar cada matí.</p>\n"
       },
       {
         "slug": "001-manual-per-guanyar-guerres-insignificants",
