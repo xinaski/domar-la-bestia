@@ -9,6 +9,8 @@ export default createRouter({
   history: createWebHistory(),
   routes: [
     { path: "/", name: "home", component: Home },
+    { path: "/llibres/no-hi-ha-per-tant", redirect: "/llibres/instruccions-per-viure-lleugerament-enfadat" },
+    { path: "/llibres/no-hi-ha-per-tant/:chapterSlug", redirect: to => `/llibres/instruccions-per-viure-lleugerament-enfadat/${to.params.chapterSlug}` },
     { path: "/llibres/:bookSlug", name: "book", component: BookIndex },
     { path: "/llibres/:bookSlug/:chapterSlug", name: "chapter", component: ChapterPage },
     { path: "/:pathMatch(.*)*", name: "notfound", component: NotFound },

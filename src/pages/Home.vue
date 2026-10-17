@@ -58,7 +58,7 @@ const featuredBooks = [
     description: "Textos sobre la memòria, absència i la manera estranya que té la vida d’arribar sempre una mica tard.",
   },
   {
-    slug: "no-hi-ha-per-tant",
+    slug: "instruccions-per-viure-lleugerament-enfadat",
     title: "Instruccions per viure lleugerament enfadat",
     image: "/images/home/viure-enfadat.webp",
     imageAlt: "Filferro vermell embolicat en un nus",

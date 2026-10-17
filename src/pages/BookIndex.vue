@@ -58,7 +58,7 @@ const chapters = computed(() => bookData.value?.chapters ?? []);
 const editorialCovers: Record<string, string> = {
   "caure-lentament": "/images/home/caure-lentament.webp",
   "dignitat-marxar-tard": "/images/home/dignitat-marxar-tard.webp",
-  "no-hi-ha-per-tant": "/images/home/viure-enfadat.webp",
+  "instruccions-per-viure-lleugerament-enfadat": "/images/home/viure-enfadat.webp",
   "cansament-de-ser": "/images/home/cansament-de-ser.webp",
 };
 const editorialCover = computed(() => editorialCovers[bookSlug.value] || "");
