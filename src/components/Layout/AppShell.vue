@@ -5,7 +5,7 @@
       <a class="site-external" href="https://soroll.xinaski.com/" target="_blank" rel="noopener noreferrer">Soroll de fons <span aria-hidden="true">→</span></a>
     </header>
     <main class="site-main"><slot /></main>
-    <footer class="site-footer"><span>© {{ new Date().getFullYear() }} DIUMENGE</span><RouterLink to="/">Domar la bèstia</RouterLink></footer>
+    <footer class="site-footer"><a class="footer-studio" href="https://diumenge.cat/" target="_blank" rel="noopener noreferrer" aria-label="DIUMENGE — estudi de disseny"><img src="/images/diumenge-logo.svg" alt="DIUMENGE" /></a><RouterLink to="/">Domar la bèstia</RouterLink></footer>
   </div>
 </template>
 
@@ -23,6 +23,9 @@ import { RouterLink } from "vue-router";
 .site-main { width: 100%; flex: 1; }
 .site-footer { display: flex; justify-content: space-between; gap: 16px; padding: 24px clamp(22px, 2.7vw, 48px); border-top: 1px solid #eee; font-size: 12px; }
 .site-footer a { color: inherit; text-decoration: none; }
+.footer-studio { display: inline-flex; align-items: center; }
+.footer-studio img { display: block; width: 112px; height: auto; }
+.footer-studio:hover { opacity: .7; }
 @media (max-width: 600px) {
   .site-header { padding-top: 22px; align-items: flex-start; }
   .site-brand { font-size: 22px; }
