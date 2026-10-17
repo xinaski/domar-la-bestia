@@ -2,7 +2,7 @@
   <div class="site-shell">
     <header class="site-header">
       <RouterLink to="/" class="site-brand">Domar la bèstia</RouterLink>
-      <a class="site-external" href="https://soroll.xinaski.com/" target="_blank" rel="noopener noreferrer"><svg class="headphones-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="3" y="13" width="4" height="8" rx="2"/><rect x="17" y="13" width="4" height="8" rx="2"/></svg><span>Soroll de fons <span aria-hidden="true">→</span></span></a>
+      <a class="site-external" href="https://soroll-de-fons.xinaski.com/" target="_blank" rel="noopener noreferrer"><svg class="headphones-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 14v-3a9 9 0 0 1 18 0v3"/><rect x="3" y="13" width="4" height="8" rx="2"/><rect x="17" y="13" width="4" height="8" rx="2"/></svg><span>Soroll de fons <span aria-hidden="true">→</span></span></a>
     </header>
     <main class="site-main"><slot /></main>
     <footer class="site-footer"><a class="footer-studio" href="https://diumenge.cat/" target="_blank" rel="noopener noreferrer" aria-label="DIUMENGE — estudi de disseny"><img src="/images/diumenge-logo.svg" alt="DIUMENGE" /></a><RouterLink to="/">Domar la bèstia</RouterLink></footer>
