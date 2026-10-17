@@ -53,7 +53,7 @@ const bookSlug = computed(() => {
   const value = route.params.bookSlug;
   return Array.isArray(value) ? value[0] : String(value || "");
 });
-const bookData = computed(() => booksBySlug[bookSlug.value]);
+const bookData = computed(() => booksBySlug[bookSlug.value] ?? (bookSlug.value === "instruccions-per-viure-lleugerament-enfadat" ? booksBySlug["no-hi-ha-per-tant"] : undefined));
 const chapters = computed(() => bookData.value?.chapters ?? []);
 const editorialCovers: Record<string, string> = {
   "caure-lentament": "/images/home/caure-lentament.webp",
