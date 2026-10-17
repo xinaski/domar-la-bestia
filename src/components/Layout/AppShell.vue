@@ -5,7 +5,7 @@
       <a class="site-external" href="https://soroll.xinaski.com/" target="_blank" rel="noopener noreferrer">Soroll de fons <span aria-hidden="true">→</span></a>
     </header>
     <main class="site-main"><slot /></main>
-    <footer class="site-footer"><span>© Marc Zamora {{ new Date().getFullYear() }}</span><RouterLink to="/">Domar la bèstia</RouterLink></footer>
+    <footer class="site-footer"><span>© {{ new Date().getFullYear() }} DIUMENGE</span><RouterLink to="/">Domar la bèstia</RouterLink></footer>
   </div>
 </template>
 
