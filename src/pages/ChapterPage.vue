@@ -39,7 +39,7 @@ const route = useRoute();
 const bookSlug = computed(() => String(route.params.bookSlug || ""));
 const chapterSlug = computed(() => String(route.params.chapterSlug || ""));
 
-const book = computed(() => booksBySlug[bookSlug.value]);
+const book = computed(() => booksBySlug[bookSlug.value] ?? (bookSlug.value === "instruccions-per-viure-lleugerament-enfadat" ? booksBySlug["no-hi-ha-per-tant"] : undefined));
 const chapter = computed(() => book.value?.chapters.find((c) => c.slug === chapterSlug.value));
 const nav = computed(() => (book.value ? book.value.nav[chapterSlug.value] : { prev: null, next: null }));
 </script>
