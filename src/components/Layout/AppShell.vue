@@ -16,7 +16,7 @@ import { RouterLink } from "vue-router";
 <style scoped>
 .site-shell { display: flex; flex-direction: column; min-height: 100vh; background: #fff; color: #111; }
 .site-header { position: sticky; top: 0; z-index: 50; background: #fff; border-bottom: 1px solid rgba(17,17,17,.06); display: flex; align-items: center; justify-content: space-between; gap: 24px; width: 100%; padding: 18px clamp(22px, 2.7vw, 48px); }
-.site-brand { color: inherit; text-decoration: none; font-family: 'Fraunces', Georgia, serif; font-weight: 700; font-size: clamp(22px, 2.1vw, 32px); line-height: 1.05; letter-spacing: -.045em; }
+.site-brand { color: inherit; text-decoration: none; font-family: 'Fraunces', Georgia, serif; font-weight: 500; font-size: clamp(21px, 1.9vw, 29px); line-height: 1.05; letter-spacing: -.045em; }
 .site-external { color: inherit; text-decoration: none; text-transform: uppercase; font: 600 10px/1.5 'DM Mono', monospace; letter-spacing: .25em; white-space: nowrap; }
 .site-external span { margin-left: 4px; }
 .site-external:hover, .site-brand:hover { opacity: .65; }
