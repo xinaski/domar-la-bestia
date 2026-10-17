@@ -2,7 +2,7 @@
   <main class="soon-page">
     <nav class="breadcrumb"><RouterLink to="/">Inici</RouterLink><span>/</span><span>El cansament de ser</span></nav>
     <section class="soon-hero">
-      <img class="soon-image" src="/images/paperera-proximament.svg" alt="Una paperera amb un únic full de paper arrugat" />
+      <img class="soon-image" src="/images/paperera-fotografia.webp" alt="Una paperera amb un únic full de paper arrugat" />
       <div class="soon-copy">
         <p class="eyebrow">DOMAR LA BÈSTIA — LLIBRE 04</p>
         <h1>El cansament de ser</h1>
