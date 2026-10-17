@@ -31,6 +31,10 @@
 
     <section class="closing" aria-label="Una nota final">
       <img src="/images/home/paper-arrugat.webp" alt="Un full de paper blanc arrugat sobre una taula" loading="lazy" />
+      <div class="closing-copy">
+        <h2>No en teníem ni idea.<br />I aquí seguim.</h2>
+        <p>La resta l’anem escrivint sobre la marxa.</p>
+      </div>
     </section>
   </div>
 </template>
@@ -100,7 +104,10 @@ h1 { max-width: 900px; margin: 0; font-family: 'Bodoni Moda', 'Didot', 'Bodoni M
 .book-copy p.coming-soon { font-style: italic; }
 .book-action { margin-top: 20px; }
 .book-action.muted { opacity: .5; }
-.closing { padding-top: clamp(75px, 7vw, 135px); padding-bottom: clamp(85px, 10vw, 170px); }
+.closing { position: relative; padding-top: clamp(75px, 7vw, 135px); padding-bottom: clamp(85px, 10vw, 170px); }
+.closing-copy { position: absolute; inset: clamp(75px, 7vw, 135px) var(--page-gutter) clamp(85px, 10vw, 170px); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 24px; color: #171717; pointer-events: none; }
+.closing-copy h2 { margin: 0; font: 400 clamp(30px, 4.3vw, 72px)/1.05 'Bodoni Moda', Georgia, serif; letter-spacing: -.055em; text-wrap: balance; }
+.closing-copy p { margin: 22px 0 0; font: 400 clamp(11px, 1.05vw, 15px)/1.5 'DM Mono', monospace; letter-spacing: .015em; }
 .closing img { display: block; width: 100%; aspect-ratio: 2.52 / 1; object-fit: cover; object-position: center; }
 @media (min-width: 1600px) { .hero { padding-top: 125px; } }
 @media (max-width: 1020px) {
@@ -124,6 +131,9 @@ h1 { max-width: 900px; margin: 0; font-family: 'Bodoni Moda', 'Didot', 'Bodoni M
   .book-copy p { font-size: 13px; line-height: 1.35; }
   .closing { padding-top: 90px; padding-bottom: 100px; }
   .closing img { aspect-ratio: 1.6; }
+  .closing-copy { inset: 90px var(--page-gutter) 100px; padding: 18px; }
+  .closing-copy h2 { font-size: clamp(29px, 7vw, 48px); }
+  .closing-copy p { margin-top: 14px; font-size: 10px; }
 }
 @media (max-width: 390px) {
   h1 { font-size: 47px; }
