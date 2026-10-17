@@ -18,7 +18,6 @@
           </div>
           <div class="book-actions">
             <RouterLink v-if="firstReadable" class="read-link" :to="`/llibres/${bookData.slug}/${firstReadable.slug}`">Començar a llegir <span aria-hidden="true">↗</span></RouterLink>
-            <a v-if="bookData.pdf" class="download-link" :href="bookData.pdf" download>Descarregar PDF <span aria-hidden="true">↓</span></a>
           </div>
         </div>
       </section>
@@ -59,7 +58,7 @@ const chapters = computed(() => bookData.value?.chapters ?? []);
 const editorialCovers: Record<string, string> = {
   "caure-lentament": "/images/home/caure-lentament.webp",
   "dignitat-marxar-tard": "/images/home/dignitat-marxar-tard.webp",
-  "viure-enfadat": "/images/home/viure-enfadat.webp",
+  "no-hi-ha-per-tant": "/images/home/viure-enfadat.webp",
   "cansament-de-ser": "/images/home/cansament-de-ser.webp",
 };
 const editorialCover = computed(() => editorialCovers[bookSlug.value] || "");
@@ -94,7 +93,6 @@ function firstChildSlug(sectionSlug: string) {
 .book-actions a { text-decoration: none; font: 500 11px/1.5 'DM Mono', monospace; }
 .read-link { padding: 15px 19px; background: #161616; color: white; }
 .read-link:hover { background: #444; }
-.download-link { color: #171717; border-bottom: 1px solid #999; padding-bottom: 5px; }
 .book-actions span { margin-left: 10px; }
 .contents { margin-top: clamp(100px, 12vw, 180px); border-top: 1px solid #171717; }
 .contents-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 20px; padding: 30px 0 38px; }
